@@ -1,0 +1,4 @@
+HelloIntent say hello to {FirstName}
+HelloIntent say hi to {FirstName}
+HelloIntent greet {FirstName}
+HelloIntent fist bump {FirstName}
